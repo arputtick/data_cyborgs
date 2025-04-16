@@ -13,6 +13,7 @@ https://discourse.schoolofma.org/c/Data-Cyborgs/89
 
 ## Weeks 3-4
 - Stalder, Felix & Savatic, Gordon. *Infrastructure of a Migratory Bird.* https://latentspaces.zhdk.ch/general/infrastructure-of-a-migratory-bird
+- Rettberg, Jill Walker. "Situated data analysis: A new method for analysing encoded power relationships in social media platforms and apps." Humanities and Social Sciences Communications 7.1 (2020): 1-13.
 
 # references
 De Beauvoir, Simone. The ethics of ambiguity, tr. Citadel Press, 1962.
