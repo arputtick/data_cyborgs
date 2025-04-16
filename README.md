@@ -1,6 +1,8 @@
 # data_cyborgs
 Repository for data cyborgs course.
 
+https://discourse.schoolofma.org/c/Data-Cyborgs/89
+
 # references
 Federici, Silvia. Caliban and the Witch. Autonomedia, 2004.
 
