@@ -3,6 +3,11 @@ Repository for data cyborgs course.
 
 https://discourse.schoolofma.org/c/Data-Cyborgs/89
 
+# Case studies
+- Waldrapp Project: 
+- Breathing Data:
+- VFRAME:
+
 # suggested readings/podcasts
 ## Weeks 1-2
 - Puttick, Alexandre. Re/Embodied Data - Technologies of Togetherness. https://latentspaces.zhdk.ch/datascience/re-embodied-data
