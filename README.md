@@ -4,9 +4,9 @@ Repository for data cyborgs course.
 https://discourse.schoolofma.org/c/Data-Cyborgs/89
 
 # Case studies
-- Waldrapp Project: 
-- Breathing Data:
-- VFRAME:
+- Waldrapp Project: https://www.waldrapp.eu/project-info/
+- Breathing Data: https://breathing-data.multiplace.org/
+- VFRAME: https://vframe.io/about/
 
 # suggested readings/podcasts
 ## Weeks 1-2
