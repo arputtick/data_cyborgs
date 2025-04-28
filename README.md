@@ -23,7 +23,8 @@ https://discourse.schoolofma.org/c/Data-Cyborgs/89
 - **Podcast episode, *A Cyborg Manifesto for Engineering Design*: https://open.spotify.com/episode/29aRZRHTU5vBczTmqkO5CJ?si=4d9eb7ada72c4219**
 - **Chapter 2 of Value sensitive design: Shaping technology with moral imagination**
 
-### Homework
+## Homework
+### Week 4
 Choose an entity that you would like to act as a representative for throughout the remainder of the course. It can be an individual, a community, a non-human entity or a cyborg.
 Identify a specific need or value of that entity.
 #### Data Assignment
