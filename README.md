@@ -23,6 +23,17 @@ https://discourse.schoolofma.org/c/Data-Cyborgs/89
 - **Podcast episode, *A Cyborg Manifesto for Engineering Design*: https://open.spotify.com/episode/29aRZRHTU5vBczTmqkO5CJ?si=4d9eb7ada72c4219**
 - **Chapter 2 of Value sensitive design: Shaping technology with moral imagination**
 
+### Homework
+Choose an entity that you would like to act as a representative for throughout the remainder of the course. It can be an individual, a community, a non-human entity or a cyborg.
+Identify a specific need or value of that entity.
+#### Data Assignment
+1) Search for, conceptualize, or create a dataset(s) related to the entity you chose.
+- Aim for data that could be used to promote/protect the need or value that you identified.
+- Consider any relationships that data could create or mediate.
+2) Create a folder with [YOUR_NAME]_[ENTITY_NAME] (e.g., alex_binturong) in this repository.
+- create a "data" folder and upload whatever your data from 1)
+- create a README.md file to keep any notes. 
+
 # main references
 De Beauvoir, Simone. The ethics of ambiguity, tr. Citadel Press, 1962.
 
