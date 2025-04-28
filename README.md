@@ -33,7 +33,8 @@ Identify a specific need or value of that entity.
 - Consider any relationships that data could create or mediate.
 2) Create a folder with [YOUR_NAME]_[ENTITY_NAME] (e.g., alex_binturong) in this repository.
 - create a "data" folder and upload whatever your data from 1)
-- create a README.md file to keep any notes. 
+- create a README.md file to keep any notes.
+- EXAMPLE: https://github.com/arputtick/data_cyborgs/tree/main/alex_binturong
 
 # main references
 De Beauvoir, Simone. The ethics of ambiguity, tr. Citadel Press, 1962.
