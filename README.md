@@ -3,28 +3,28 @@ Repository for data cyborgs course.
 
 https://discourse.schoolofma.org/c/Data-Cyborgs/89
 
-# Case studies
+# case studies
 - Waldrapp Project: https://www.waldrapp.eu/project-info/
 - Breathing Data: https://breathing-data.multiplace.org/
 - VFRAME: https://vframe.io/about/
 
 # suggested readings/podcasts
-## Weeks 1-2
+## weeks 1-2
 - **Puttick, Alexandre. Re/Embodied Data - Technologies of Togetherness. https://latentspaces.zhdk.ch/datascience/re-embodied-data**
 - **The Cyborg Manifesto**
 - **Intro, Chapter 1 and Chapter 6 of Ways of Being**
 - Chapter 3 of Caliban and the Witch, "The Great Caliban"
 - Part 1 of the Ethics of Ambiguity
 
-## Weeks 3-4
+## weeks 3-4
 - Stalder, Felix & Savatic, Gordon. *Infrastructure of a Migratory Bird.* https://latentspaces.zhdk.ch/general/infrastructure-of-a-migratory-bird
 - Rettberg, Jill Walker. "Situated data analysis: A new method for analysing encoded power relationships in social media platforms and apps." Humanities and Social Sciences Communications 7.1 (2020): 1-13.
 - Wie künstliche Intelligenz bei der Aufklärung von Kriegsverbrechen hilft: https://www.spiegel.de/ausland/wie-kuenstliche-intelligenz-bei-der-aufklaerung-von-kriegsverbrechen-hilft-a-670d8c14-0b8b-42bc-a5b0-e74250cff225
 - **Podcast episode, *A Cyborg Manifesto for Engineering Design*: https://open.spotify.com/episode/29aRZRHTU5vBczTmqkO5CJ?si=4d9eb7ada72c4219**
 - **Chapter 2 of Value sensitive design: Shaping technology with moral imagination**
 
-# Homework
-## Week 4
+# homework
+## week 4
 Choose an entity that you would like to act as a representative for throughout the remainder of the course. It can be an individual, a community, a non-human entity or a cyborg.
 Identify a specific need or value of that entity.
 #### Data Assignment
