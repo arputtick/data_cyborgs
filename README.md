@@ -20,8 +20,8 @@ https://discourse.schoolofma.org/c/Data-Cyborgs/89
 ## weeks 3-4
 - Stalder, Felix & Savatic, Gordon. *Infrastructure of a Migratory Bird.* https://latentspaces.zhdk.ch/general/infrastructure-of-a-migratory-bird
 - Rettberg, Jill Walker. "Situated data analysis: A new method for analysing encoded power relationships in social media platforms and apps." Humanities and Social Sciences Communications 7.1 (2020): 1-13.
-- Wie künstliche Intelligenz bei der Aufklärung von Kriegsverbrechen hilft: https://www.spiegel.de/ausland/wie-kuenstliche-intelligenz-bei-der-aufklaerung-von-kriegsverbrechen-hilft-a-670d8c14-0b8b-42bc-a5b0-e74250cff225
-- **Podcast episode, *A Cyborg Manifesto for Engineering Design*: https://open.spotify.com/episode/29aRZRHTU5vBczTmqkO5CJ?si=4d9eb7ada72c4219**
+- [Wie künstliche Intelligenz bei der Aufklärung von Kriegsverbrechen hilft](https://www.spiegel.de/ausland/wie-kuenstliche-intelligenz-bei-der-aufklaerung-von-kriegsverbrechen-hilft-a-670d8c14-0b8b-42bc-a5b0-e74250cff225)
+- **Podcast episode, [*A Cyborg Manifesto for Engineering Design*](https://open.spotify.com/episode/29aRZRHTU5vBczTmqkO5CJ?si=4d9eb7ada72c4219)**
 - **Chapter 2 of Value sensitive design: Shaping technology with moral imagination**
 
 ## weeks 5-6
