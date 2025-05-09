@@ -9,6 +9,7 @@ https://discourse.schoolofma.org/c/Data-Cyborgs/89
 - VFRAME: https://vframe.io/about/
 
 # suggested readings/podcasts
+**BOLD** indicates references that I find particularly relevant.
 ## weeks 1-2
 - **Puttick, Alexandre. Re/Embodied Data - Technologies of Togetherness. https://latentspaces.zhdk.ch/datascience/re-embodied-data**
 - **The Cyborg Manifesto**
@@ -22,6 +23,11 @@ https://discourse.schoolofma.org/c/Data-Cyborgs/89
 - Wie künstliche Intelligenz bei der Aufklärung von Kriegsverbrechen hilft: https://www.spiegel.de/ausland/wie-kuenstliche-intelligenz-bei-der-aufklaerung-von-kriegsverbrechen-hilft-a-670d8c14-0b8b-42bc-a5b0-e74250cff225
 - **Podcast episode, *A Cyborg Manifesto for Engineering Design*: https://open.spotify.com/episode/29aRZRHTU5vBczTmqkO5CJ?si=4d9eb7ada72c4219**
 - **Chapter 2 of Value sensitive design: Shaping technology with moral imagination**
+
+## weeks 5-6
+- **Puttick et al., [Shifting Paradigms: Value Sensitive Design for Fair AI Recruitment](https://github.com/arputtick/data_cyborgs/blob/main/references/VSD_Position_Paper_AIMMES_2025.pdf)**
+- He et al., [Developing a Fair Online Recruitment Framework Based on Job-seekers'Fairness Concerns](https://github.com/arputtick/data_cyborgs/blob/main/references/FINDHR_VSD.pdf)
+- **Beach, Michael & Fox, Tyler, [Value Sensitive Speculative Design: Exploring More-Than-Human Relations in the Age of Climate Catastrophe](https://github.com/arputtick/data_cyborgs/blob/main/references/More%20Than%20Human%20VSD.pdf)**
 
 # homework
 ## week 4
