@@ -1,0 +1,5 @@
+Current places that data may come from:
+- Steam API
+- ItchIO API
+
+(Would add links but technical docs are all a nightmare or actually non-existant)
