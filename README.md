@@ -46,9 +46,10 @@ Identify a specific need or value of that entity.
 ## week 6
 Create a chatbot meant to "speak on behalf" of the entity you chose in the last assignment. The goal is to experiment with the shaping of the model's Umwelt, but these chatbots could also play a role in the speculative design phase of the course. Either as part of the design, or as co-designers.
 Here are two resources for chatbot creation:
--https://huggingface.co/chat/assistants
+- https://huggingface.co/chat/assistants
   - Here you can create a new assistant or look at the parameter settings and system prompts for other assistants. You can tweak the model using system prompts, web links, changing parameters like temperature and top-p...
--https://colab.research.google.com/drive/1nPOVUtKCYo4PHEVKnPLHsg4XshP-xOSF?usp=sharing
+  - No coding involved.
+- https://colab.research.google.com/drive/1nPOVUtKCYo4PHEVKnPLHsg4XshP-xOSF?usp=sharing
   - This is the notebook I created where you can experiment with fine-tuning the model with your own data and chatting with it.
   - Llama 3.2 requires permission to access. You can request access yourself, login with my key (posted on discourse) or use a different model (e.g., one of the versions that I already trained).
   - Llama 3.2 also works on tabular data, which could be interesting to experiment with.
