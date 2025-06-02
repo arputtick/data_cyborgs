@@ -56,16 +56,16 @@ Here are two resources for chatbot creation:
   - The model requires using a GPU runtime with at least ca. 30gb of GPU memory. If you can't access one via colab, you can try running a smaller chatbot model from HuggingFace.
   - For now, the easiest way to use your own data is to upload it to the notebook server as a single file named "combined.txt".
 
-  ## week 8
-  The final two weeks of the course are devoted to whatever you want to learn about/work on. Feel free to make any requests on material you'd like to see/if you'd like to present something in class!
+## week 8
+The final two weeks of the course are devoted to whatever you want to learn about/work on. Feel free to make any requests on material you'd like to see/if you'd like to present something in class!
 
-  In the last two classes, you practiced applying the value-sensitive design framework. If you already have your own project idea in mind, you can see if VSD can help you deepen your idea/bring it more in alignment with your values. If you don't have a project, then consider taking a feasible chunk from the ideas we came up with last week and working on that. Off the top of my head:
-  - Applying girl math to/representation of trees in public funding evaluation metrics.
-  - Breathing mini-game.
-  - Folklore preserving AI.
-  - data project on men, loneliness, mental health etc.
-  - Empathy video game concept development.
-  - Empathy metric/reward.
+In the last two classes, you practiced applying the value-sensitive design framework. If you already have your own project idea in mind, you can see if VSD can help you deepen your idea/bring it more in alignment with your values. If you don't have a project, then consider taking a feasible chunk from the ideas we came up with last week and working on that. Off the top of my head:
+ - Applying girl math to/representation of trees in public funding evaluation metrics.
+ - Breathing mini-game.
+ - Folklore preserving AI.
+ - data project on men, loneliness, mental health etc.
+ - Empathy video game concept development.
+ - Empathy metric/reward.
 
 
 # main references
